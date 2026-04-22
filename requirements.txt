@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+PyMuPDF
+sentence-transformers=
+transformers
+huggingface-hub
+scipy
+torch
+numpy
